@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tania Rascia',
+    title: 'Anwar's',
     author: {
-      name: 'Tania Rascia',
+      name: 'Rusli Anwar',
     },
     pathPrefix: '/',
-    siteUrl: 'https://www.taniarascia.com',
+    siteUrl: 'https://anwarrusli.github.io',
     description:
       'Software engineer and open-source creator. This is my digital garden.',
     feedUrl: 'https://www.taniarascia.com/rss.xml',
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Tania Rascia',
-        short_name: 'Tania Rascia',
+        name: 'Anwar's',
+        short_name: 'Rusli Anwar',
         description:
           'Software engineer and open source creator. This is my digital garden.',
         start_url: '/',
