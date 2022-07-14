@@ -7,7 +7,7 @@ module.exports = {
     pathPrefix: '/',
     siteUrl: 'https://anwarrusli.github.io',
     description:
-      'Software engineer and open-source creator. This is my digital garden.',
+      'Software engineer and open-source creator. This is my digital verse.',
     feedUrl: 'https://www.taniarascia.com/rss.xml',
     logo: 'https://www.taniarascia.com/logo.png',
   },
