@@ -1,9 +1,9 @@
 {
-  "name": "taniarascia.com",
+  "name": "ruslianwar.com",
   "private": true,
   "version": "6.0.0",
-  "description": "Tania Rascia's personal website.",
-  "author": "Tania Rascia",
+  "description": "Anwar's personal website.",
+  "author": "Rusli Anwar",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taniarascia/taniarascia.com"
+    "url": "https://github.com/anwarrusli"
   },
   "dependencies": {
     "gatsby": "^3.12.1",
